@@ -56,7 +56,7 @@
 #### #6 Which products or applications are hosted on the following cloud platforms, and could you also provide their logos and relevant details? 
 -![image](https://github.com/user-attachments/assets/5c334ad5-5214-44b1-ac92-b0d4ed42cd6a)
 
- AWS - GOOGLE CLOUD PLATFORM
+ AWS - GOOGLE CLOUD PLATFORM AND  MICROSOFT AZURE
 
 ***
 
