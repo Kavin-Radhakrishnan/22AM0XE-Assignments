@@ -51,7 +51,10 @@
 ***
 
 #### #5 [K8s] Can you deploy a Hello World application in Kubernetes, create a Deployment, expose it using a Service, and verify the output by accessing it in a browser? Please include screenshots of each step and the final browser check.
-> Add your answer here!
+> ![image](https://github.com/user-attachments/assets/67bb5bfe-838e-4884-aad9-1cca8d02c8af)
+> ![image](https://github.com/user-attachments/assets/f8d861ca-3a2b-4aaa-a485-1e64d31dd82e)
+
+
 
 ***
 
