@@ -19,7 +19,8 @@
 ### Day 1 Assignments - Answers and Screenshots
 
 > [!WARNING]
-> Pls submit the correct screenshots
+> [image](https://github.com/user-attachments/assets/191762ab-b041-455d-95c4-52bef506288e)
+
 
 > [!CAUTION]
 > Pls don't copy from others. Marks will be reduced for both students
