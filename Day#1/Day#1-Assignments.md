@@ -36,11 +36,20 @@
 ***
 
 #### #3 Provide a basic example of using Google Colab by following the given steps
-> Add your answer here!
 > - Create a new Google Colab notebook.
+> - ![image](https://github.com/user-attachments/assets/0b214aa3-db83-47b9-bee9-990f251d713c)
+
 > - Write Python code to print "Hello, World!" in the notebook.
+> - ![image](https://github.com/user-attachments/assets/d7e081f7-c097-477a-b10b-c2afc4a01170)
+
 > - Import the NumPy library and create a 2x2 matrix, then print it.
+> - ![image](https://github.com/user-attachments/assets/1d314012-4ee4-4373-b132-d52cc29d1b50)
+
 > - Load a small dataset (e.g., Iris dataset) from an online source, display the first five rows, and provide a brief explanation of the dataset.
+>![image](https://github.com/user-attachments/assets/c8f4ef8d-df02-4299-98e1-ff12ebc7a42d)
+![image](https://github.com/user-attachments/assets/36b23694-e460-45c7-ace7-c182e538bf0f)
+
+
 
 ***
 
