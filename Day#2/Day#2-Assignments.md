@@ -48,17 +48,23 @@
 ***
 
 #### #4 [K8s] Write a manifest for hello-world pod and deploy the same in the namespace of your registration number
-> Add your answer here!
+![image](https://github.com/user-attachments/assets/28bf0fd6-e609-43f3-97db-8a461c313514)
+
 
 ***
 
 #### #5 [K8s] Can you deploy a Hello World application in Kubernetes, create a Deployment, expose it using a Service, and verify the output by accessing it in a browser? Please include screenshots of each step and the final browser check.
-> Add your answer here!
+![image](https://github.com/user-attachments/assets/6b853546-8c85-44d8-acb8-ecefac9477af)
+
+![image](https://github.com/user-attachments/assets/f707a8c5-80de-4a9c-b821-aa898f3a7bb0)
+
+
 
 ***
 
 #### #6 [K8s] Can you deploy a Machine Learning application in Kubernetes, create a Deployment, expose it using a Service, and verify the output by accessing it in a browser? Please include screenshots of each step and the final browser check.
-> Add your answer here!
+![image](https://github.com/user-attachments/assets/00ad0054-9e40-4218-810c-f034abc04283)
+
 
 ***
 
