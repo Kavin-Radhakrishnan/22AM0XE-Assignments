@@ -19,6 +19,9 @@
 ### Day 1 Assignments - Answers and Screenshots
 
 > [!WARNING]
+> ![image](https://github.com/user-attachments/assets/2b7e6873-a0d4-4c02-a73c-eb24b76447df)
+> 
+
 > [image](https://github.com/user-attachments/assets/191762ab-b041-455d-95c4-52bef506288e)
 
 
