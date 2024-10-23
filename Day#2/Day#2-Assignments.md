@@ -37,7 +37,11 @@
 ***
 
 #### #3 [Impromptu Learning] Complete the learning (as video / pdf) about the following two topics, read about Kubernetes, and then share a screenshot along with a summary of the story
-> Add your answer here!
+![image](https://github.com/user-attachments/assets/54f8c83b-dcaa-4b74-8ff2-67ac241aedef)
+
+![image](https://github.com/user-attachments/assets/61514718-f334-41cc-a6c9-bed2e93b9510)
+
+
 
 ***
 
@@ -67,6 +71,8 @@
 ***
 
 #### #9 Create a post on Linkedin about your learning journey in this 1 credit course
-> Add your answer here!
+LINK - https://www.linkedin.com/posts/kavin-radhakrishnan-007a0631a_i-just-finished-an-incredibly-insightful-activity-7254867038374920192-9WUb?utm_source=share&utm_medium=member_desktop
+![image](https://github.com/user-attachments/assets/d6e6681f-dcff-440f-8ee1-7bc7edde6d6a)
+
 
 ***
