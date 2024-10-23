@@ -19,7 +19,7 @@
 ### Day 1 Assignments - Answers and Screenshots
 
 > [!WARNING]
-> ![image](https://github.com/user-attachments/assets/2b7e6873-a0d4-4c02-a73c-eb24b76447df)
+> 
 > 
 
 > [image](https://github.com/user-attachments/assets/191762ab-b041-455d-95c4-52bef506288e)
@@ -29,9 +29,12 @@
 > Pls don't copy from others. Marks will be reduced for both students
 
 #### #1 [ML] Complete the learning path : https://developers.google.com/codelabs/tensorflow-1-helloworld and add the details in the Github repo
-> Add your answer here!
+> Add your answer here! ![image](https://github.com/user-attachments/assets/72d1c323-70f6-493c-adb8-a37b67a95db3)
+
 > - Completion Badge
 > - Completion Screenshot	![image](https://github.com/user-attachments/assets/3469cbe4-ef24-4a7f-baa8-e35571fcf115)
+>
+> - 
 
 
 ***
